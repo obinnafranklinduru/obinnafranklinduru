@@ -1,4 +1,4 @@
-<p align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I’m Obinna Franklin Duru</a></p>
+<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I’m Obinna Franklin Duru</a></h1>
 <p align="center">(Backend Developer)</p>
 
 ### ABOUT ME:
