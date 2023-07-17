@@ -3,12 +3,10 @@
 
 ### ABOUT ME:
 
-I am a software engineer specializing in back-end development with expertise in building high-performing products that align with business objectives.
-
 - 🌱 I love building innovative solutions that make a positive impact on society.
 - 👯 I am willing to callaborate and enjoy working with teams to achieve a given task.
 - 💬 Feel free to reach out to me if you have any questions or need assistance with anything related to backend web development.
-- 📫 You can easily reach me via WhatsApp at [08064248389].
+- 📫 You can easily reach me via WhatsApp at [+2348064248389].
 - ⚡ Fun fact: I am open to new ideas.
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
