@@ -16,7 +16,9 @@
   <a href="https://www.linkedin.com/in/obinna-duru-11297b225/" target="_blank"><img width="30px" src="https://static.vecteezy.com/system/resources/previews/008/385/837/non_2x/linkedin-social-media-icon-symbol-logo-design-illustration-free-vector.jpg"></a>
 </span>
 
-| ![Obinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Obinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/obinnafranklinduru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obinnafranklinduru&&theme=tokyonight" alt="obinnafranklinduru" /></p>
 
 > Feel free to check out my portfolio <a href="https://obinna-in.vercel.app/" target="_blank">here</a>
