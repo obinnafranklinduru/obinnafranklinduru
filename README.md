@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obinnafranklinduru&&theme=tokyonight" alt="obinnafranklinduru" /></p>
 
-> Feel free to check out my portfolio <a href="https://obinna-in.vercel.app/" target="_blank">website</a>
+> Feel free to check out my repositories <a href="https://github.com/obinnafranklinduru?tab=repositories/" target="_blank"></a>
