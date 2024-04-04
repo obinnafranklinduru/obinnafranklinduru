@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning Backend development with Cloud Development Kit (CDK) and TypeScript
 - 👯 I am willing to collaborate and enjoy working with teams to achieve a given task
-- 💬 Ask me about Backend Systems, Security, Microservices, Serverless, and Open Sourc
+- 💬 Ask me about Backend Systems, Security, Microservices, Serverless, and Open Source
 - 📫 How to reach me: `LinkedIn` - https://www.linkedin.com/in/obinna-franklin-duru/
 - ⚡ Fun fact: Always open to new ideas
 
