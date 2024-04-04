@@ -1,13 +1,25 @@
-<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I’m Obinna Franklin Duru</a></h1>
+<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I'm Obinna Franklin Duru</a></h1>
 <p align="center">(Backend Developer)</p>
 
 ### ABOUT ME:
 
-- 🌱 I’m currently learning Backend development with Cloud Development Kit with TypeScript
-- 👯 I am willing to callaborate and enjoy working with teams to achieve a given task.
-- 💬 Feel free to reach out to me if you have any questions or need assistance with anything related to backend web development.
-- 📫 How to reach me: `LinkedIn `- https://www.linkedin.com/in/obinna-franklin-duru/
-- ⚡ Fun fact: Alway exquisttive to new ideas
+- 🌱 I'm currently learning Backend development with Cloud Development Kit (CDK) and TypeScript
+- 👯 I am willing to collaborate and enjoy working with teams to achieve a given task
+- 💬 Feel free to reach out to me if you have any questions or need assistance with anything related to backend web development
+- 📫 How to reach me: `LinkedIn` - https://www.linkedin.com/in/obinna-franklin-duru/
+- ⚡ Fun fact: Always open to new ideas
+
+### SKILLS AND EXPERTISE:
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+### NOTABLE PROJECTS:
+
+- **[Project 1](https://github.com/obinnafranklinduru/project1)**: A brief description of your Project 1, highlighting its main features and technologies used.
+- **[Project 2](https://github.com/obinnafranklinduru/project2)**: A brief description of your Project 2, highlighting its main features and technologies used.
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
 
@@ -21,5 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obinnafranklinduru&&theme=tokyonight" alt="obinnafranklinduru" /></p>
 
-> Feel free to check out my portfolio <a href="https://github.com/obinnafranklinduru/" target="_blank">here</a>
-```
+> Feel free to check out my portfolio <a href="https://obinna-in.vercel.app/" target="_blank">website</a>
