@@ -3,11 +3,11 @@
 
 ### ABOUT ME:
 
-- 🌱 I love building innovative solutions that make a positive impact on society.
+- 🌱 I’m currently learning Backend development with Cloud Development Kit with TypeScript
 - 👯 I am willing to callaborate and enjoy working with teams to achieve a given task.
 - 💬 Feel free to reach out to me if you have any questions or need assistance with anything related to backend web development.
-- 📫 You can easily reach me via WhatsApp at [+2348064248389].
-- ⚡ Fun fact: I am open to new ideas.
+- 📫 How to reach me: `LinkedIn `- https://www.linkedin.com/in/obinna-franklin-duru/
+- ⚡ Fun fact: Alway exquisttive to new ideas
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
 
@@ -21,4 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obinnafranklinduru&&theme=tokyonight" alt="obinnafranklinduru" /></p>
 
-> Feel free to check out my portfolio <a href="https://obinna-in.vercel.app/" target="_blank">here</a>
+> Feel free to check out my portfolio <a href="https://github.com/obinnafranklinduru/" target="_blank">here</a>
+```
