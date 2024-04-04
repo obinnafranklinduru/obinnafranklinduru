@@ -18,8 +18,9 @@
 
 ### NOTABLE PROJECTS:
 
-- **[Project 1](https://github.com/obinnafranklinduru/project1)**: A brief description of your Project 1, highlighting its main features and technologies used.
-- **[Project 2](https://github.com/obinnafranklinduru/project2)**: A brief description of your Project 2, highlighting its main features and technologies used.
+- **[Online Marketplace Backend System](https://github.com/obinnafranklinduru/online-marketplace-system)**: Designed to power a dynamic online marketplace, enabling seamless buying and selling experiences. Utilizes Node.js, AWS Services, MongoDB, PostgreSQL, Docker, Serverless Framework, and JWT for secure authentication.
+
+- **[NASA Mission Control Dashboard](https://github.com/obinnafranklinduru/nasa-project)**: A backend system for scheduling missions, viewing historical data using the SpaceX API, and upcoming data. Built with Express.js and MongoDB Atlas.
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
 
