@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning Smart Contract development with Foundry Toolkit and Solidity
 - 👯 I am willing to collaborate and enjoy working with teams to achieve a given task
-- 💬 Ask me about Backend Systems, Security, Microservices, Serverless, and Open Source
+- 💬 Ask me about Backend Systems, Smart Contract, Microservices, Serverless, and Security
 - 📫 How to reach me: `LinkedIn` - https://www.linkedin.com/in/obinna-franklin-duru/
 - ⚡ Fun fact: Always open to new ideas
 
