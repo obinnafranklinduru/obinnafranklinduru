@@ -37,6 +37,6 @@
 | ![Obinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/obinnafranklinduru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obinnafranklinduru&&theme=tokyonight" alt="obinnafranklinduru" /></p>
+
 
 > Feel free to check out my repositories <a href="https://github.com/obinnafranklinduru?tab=repositories/" target="_blank"></a>
