@@ -21,6 +21,8 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ### NOTABLE PROJECTS:
+- **[LottoGenesis](https://github.com/obinnafranklinduru/LottoGenesis)**: LottoGenesis is a decentralized lottery system on the Ethereum blockchain, ensuring transparency and security through smart contracts. It uses Chainlink VRF for randomness and Chainlink Keepers for automation. Participants enter the lottery, and at defined intervals, a random winner receives the prize pool.
+  
 - **[EthFund](https://github.com/obinnafranklinduru/ethfund)**: EthFund smart contract is a decentralized funding platform that allows users to contribute Ether (ETH) to a project or individual. It uses Chainlink price feeds to ensure contributions meet a minimum USD threshold and leverages OpenZeppelin's libraries for secure smart contract development on the Ethereum blockchain..
 
 - **[Online Marketplace Backend System](https://github.com/obinnafranklinduru/online-marketplace-system)**: Designed to power a dynamic online marketplace, enabling seamless buying and selling experiences. Utilizes Node.js, AWS Services, MongoDB, PostgreSQL, Docker, Serverless Framework, and JWT for secure authentication.
