@@ -1,13 +1,16 @@
-<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I'm Obinna Franklin Duru</a></h1>
-<p align="center">(Backend Developer)</p>
+<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I'm Obinna Duru</a></h1>
+<p align="center">Smart Contract Engineer</p>
+<p align="center">Building secure and efficient onchain systems with excellence & purpose.</p>
 
 ### ABOUT ME:
+I design smart contracts that handle **real value** - responsibly.
 
-- 🌱 I'm currently learning Smart Contract development with Foundry Toolkit and Solidity
-- 👯 I am willing to collaborate and enjoy working with teams to achieve a given task
-- 💬 Ask me about Backend Systems, Smart Contracts, Microservices, Serverless, and Security
-- 📫 How to reach me: `LinkedIn` - https://www.linkedin.com/in/obinna-franklin-duru/
-- ⚡ Fun fact: Always open to new ideas
+- Focused on **security-first architecture**
+- Passionate about **minimizing attack surfaces & gas usage**
+- Strong backend foundation for **scalable onchain systems**
+- Collaborating with founders and engineers building for **Base and beyond**
+
+> "Excellence in code reflects excellence in character."
 
 ### SKILLS AND EXPERTISE:
 
@@ -20,14 +23,23 @@
 [![Ethers.js](https://img.shields.io/badge/-Ethers.js-6446FA?style=flat-square&logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+**Smart Contracts & Security**
+- Solidity · Foundry · Hardhat  
+- OpenZeppelin · Merkle Proof · Invariant & Fuzz Testing  
+
+**Backend & Infrastructure**
+- TypeScript · Node.js · Express.js  
+- PostgreSQL · MongoDB · Docker · AWS  
+- Serverless Architectures · CI/CD workflows  
+
 ### NOTABLE PROJECTS:
-- **[LottoGenesis](https://github.com/obinnafranklinduru/LottoGenesis)**: LottoGenesis is a decentralized lottery system on the Ethereum blockchain, ensuring transparency and security through smart contracts. It uses Chainlink VRF for randomness and Chainlink Keepers for automation. Participants enter the lottery, and at defined intervals, a random winner receives the prize pool.
-  
-- **[EthFund](https://github.com/obinnafranklinduru/ethfund)**: EthFund smart contract is a decentralized funding platform that allows users to contribute Ether (ETH) to a project or individual. It uses Chainlink price feeds to ensure contributions meet a minimum USD threshold and leverages OpenZeppelin's libraries for secure smart contract development on the Ethereum blockchain..
+| Project | Summary | Status | Link |
+|--------|---------|--------|------|
+| **EventCertificate (Base Mainnet)** | Reusable, pausable **multi-event soulbound NFT** contract for certifications & access | ✅ Live | [View Contract](https://base.blockscout.com/address/0x423F09321A5aA584f2b06F7FD987f8718f3caA6a?tab=contract) |
+| LottoGenesis | Decentralized lottery using Chainlink VRF + automation | 🌱 Learning Project | [Repo](https://github.com/obinnafranklinduru/LottoGenesis) |
+| EthFund | USD-pegged funding contract using Chainlink price feeds | 🌱 Learning Project | [Repo](https://github.com/obinnafranklinduru/ethfund) |
+| Marketplace Backend System | Secure backend for e-commerce with auth, payments, cloud hosting | ✅ Completed | [Repo](https://github.com/obinnafranklinduru/online-marketplace-system) |
 
-- **[Online Marketplace Backend System](https://github.com/obinnafranklinduru/online-marketplace-system)**: Designed to power a dynamic online marketplace, enabling seamless buying and selling experiences. Utilizes Node.js, AWS Services, MongoDB, PostgreSQL, Docker, Serverless Framework, and JWT for secure authentication.
-
-- **[NASA Mission Control Dashboard](https://github.com/obinnafranklinduru/nasa-project)**: A backend system for scheduling missions, viewing historical data using the SpaceX API, and upcoming data. Built with Express.js and MongoDB Atlas.
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
 
@@ -41,4 +53,9 @@
 
 
 
-> Feel free to check out my repositories <a href="https://github.com/obinnafranklinduru?tab=repositories/" target="_blank"></a>
+<p align="left">
+  <a href="https://x.com/BinnaDev" target="_blank"><img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
+  <a href="https://www.linkedin.com/in/obinna-franklin-duru/" target="_blank"><img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+</p>
+
+> Always open to connecting with other builders. Let’s build something people believe in. 🤝
