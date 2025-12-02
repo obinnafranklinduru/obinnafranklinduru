@@ -36,9 +36,9 @@ I design smart contracts that handle **real value** - responsibly.
 | Project | Summary | Status | Link |
 |--------|---------|--------|------|
 | **EventCertificate (Base Mainnet)** | Reusable, pausable **multi-event soulbound NFT** contract for certifications & access | ✅ Live | [View Contract](https://base.blockscout.com/address/0x423F09321A5aA584f2b06F7FD987f8718f3caA6a?tab=contract) |
-| LottoGenesis | Decentralized lottery using Chainlink VRF + automation | 🌱 Learning Project | [Repo](https://github.com/obinnafranklinduru/LottoGenesis) |
-| EthFund | USD-pegged funding contract using Chainlink price feeds | 🌱 Learning Project | [Repo](https://github.com/obinnafranklinduru/ethfund) |
-| Marketplace Backend System | Secure backend for e-commerce with auth, payments, cloud hosting | ✅ Completed | [Repo](https://github.com/obinnafranklinduru/online-marketplace-system) |
+| Decentralized Stablecoin Protocol | A minimal, exogenous, crypto-backed stablecoin protocol designed with a focus on Reliability, Mathematical Solvency, and Security. | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1995555619747614984) |
+| Advanced Airdrop System | A modular, secure, and gas-efficient system for distributing ERC20 and ERC721 tokens. | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1990521554644459956?s=20) |
+| Monad Foundry Starter Kit | A foundational development environment designed for builders who demand excellence. | ✅ Completed | [Repo](https://github.com/obinnafranklinduru/monad-foundry-starter) |
 
 
 ### CLICK THE ICON TO VISIT MY PROFILE:
@@ -48,7 +48,7 @@ I design smart contracts that handle **real value** - responsibly.
   <a href="https://www.linkedin.com/in/obinna-franklin-duru/" target="_blank"><img width="30px" src="https://static.vecteezy.com/system/resources/previews/008/385/837/non_2x/linkedin-social-media-icon-symbol-logo-design-illustration-free-vector.jpg"></a>
 </span>
 
-| ![Obinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/obinnafranklinduru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![Obinna's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/obinnafranklinduru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 > Always open to connecting with other builders. Let’s build something people believe in. 🤝
