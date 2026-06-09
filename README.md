@@ -1,4 +1,9 @@
-<h1 align="center"><a href="https://obinna-in.vercel.app/">👋 Hi, I'm Obinna Duru</a></h1>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Obinna+Franklin+Duru.;)
+
+</div>
+
 <p align="center">Smart Contract Engineer</p>
 <p align="center">Building secure and efficient onchain systems with excellence & purpose.</p>
 
@@ -50,5 +55,12 @@ I design smart contracts that handle **real value** - responsibly.
 
 | ![Obinna's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=obinnafranklinduru&show_icons=true&theme=transparent) | <a href="https://github.com/obinnafranklinduru?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obinnafranklinduru&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<div align="center">
+  <br>
+
+[![BinnaDev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obinnafranklinduru&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 > Always open to connecting with other builders. Let’s build something people believe in. 🤝
