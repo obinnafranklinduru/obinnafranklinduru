@@ -41,14 +41,14 @@ I design smart contracts that handle **real value** responsibly. I believe code 
 
 ---
 
-## 🔬 NOTABLE PROJECTS
+## 🔬 Notable Projects
 
-| Project                          | Summary                                                                                                                                          | Status       | Link                                                                                                   |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------ | --- |
-| **Defensive Escrow Protocol**    | A production-grade UUPS upgradeable crowdfund milestone escrow protocol.                                                                         | ✅ Mainnet   | [Polygon Contract](https://polygonscan.com/address/0xf83aaB5f1fAA1a7a74AD27E2f8058801EaA31393)         |
-| **Libertas Alpha Water Project** | An institutional-grade hybrid routing protocol designed to bridge real-world fiat revenue with on-chain fractional Impact Equity.                | ✅ Completed | [Repo](https://github.com/LibertasAlpha/lawp-treasury-contracts)                                       |
-| **Libertas Alpha Certification** | A gasless, hybrid Web2/Web3 Soulbound certification protocol featuring a Merkle-verified state machine and deterministic multichain deployments. | ✅ Completed | [Repo](https://github.com/Ikenga-Software-Solutions-LTD/libertasalpha-academy-certification-contracts) |
-| **Decentralized Stablecoin**     | A minimal, exogenous, crypto-backed stablecoin protocol designed with a focus on mathematical solvency.                                          | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1995555619747614984)                                              |     |
+| Project                                   | Description                                                                                                                                                                                  |    Status    | Link                                                                                                                |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------------------------------------- |
+| **Defensive Escrow Protocol**             | A production-grade UUPS upgradeable milestone escrow protocol for secure crowdfunding and fund distribution.                                                                                 |  ✅ Mainnet  | [Polygon Contract](https://polygonscan.com/address/0xf83aaB5f1fAA1a7a74AD27E2f8058801EaA31393)                      |
+| **Libertas Alpha Water Project (LAWP)**   | An institutional-grade hybrid routing protocol that bridges real-world fiat revenue with on-chain fractional Impact Equity.                                                                  | ✅ Completed | [GitHub Repository](https://github.com/LibertasAlpha/lawp-treasury-contracts)                                       |
+| **Libertas Alpha Certification Protocol** | A gasless hybrid Web2/Web3 certification protocol featuring soulbound credentials, Merkle-based eligibility verification, a secure state machine, and deterministic multi-chain deployments. | ✅ Completed | [GitHub Repository](https://github.com/Ikenga-Software-Solutions-LTD/libertasalpha-academy-certification-contracts) |
+| **Decentralized Stablecoin**              | A minimal, exogenous, crypto-backed stablecoin protocol built with a strong emphasis on mathematical solvency and protocol safety.                                                           | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1995555619747614984)     
 
 ---
 
