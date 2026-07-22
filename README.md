@@ -43,16 +43,16 @@ I design smart contracts that handle **real value** responsibly. I believe code 
 
 ## 🔬 NOTABLE PROJECTS
 
-| Project                          | Summary                                                                                                                           | Status       | Link                                                                                                           |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- |
-| **Defensive Escrow Protocol**    | A production-grade UUPS upgradeable crowdfund milestone escrow protocol.                                                          | ✅ Mainnet   | [Polygon Contract](https://polygonscan.com/address/0xf83aaB5f1fAA1a7a74AD27E2f8058801EaA31393)                 |
-| **Libertas Alpha Water Project** | An institutional-grade hybrid routing protocol designed to bridge real-world fiat revenue with on-chain fractional Impact Equity. | ✅ Completed | [Repo](https://github.com/LibertasAlpha/lawp-treasury-contracts)                                               |
-| **EventCertificate**             | Reusable, pausable **multi-event soulbound NFT** contract for certifications & access on Base.                                    | ✅ Live      | [Base Blockscout](https://base.blockscout.com/address/0x423F09321A5aA584f2b06F7FD987f8718f3caA6a?tab=contract) |
-| **Decentralized Stablecoin**     | A minimal, exogenous, crypto-backed stablecoin protocol designed with a focus on mathematical solvency.                           | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1995555619747614984)                                                      |
+| Project                          | Summary                                                                                                                                          | Status       | Link                                                                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------ | --- |
+| **Defensive Escrow Protocol**    | A production-grade UUPS upgradeable crowdfund milestone escrow protocol.                                                                         | ✅ Mainnet   | [Polygon Contract](https://polygonscan.com/address/0xf83aaB5f1fAA1a7a74AD27E2f8058801EaA31393)         |
+| **Libertas Alpha Water Project** | An institutional-grade hybrid routing protocol designed to bridge real-world fiat revenue with on-chain fractional Impact Equity.                | ✅ Completed | [Repo](https://github.com/LibertasAlpha/lawp-treasury-contracts)                                       |
+| **Libertas Alpha Certification** | A gasless, hybrid Web2/Web3 Soulbound certification protocol featuring a Merkle-verified state machine and deterministic multichain deployments. | ✅ Completed | [Repo](https://github.com/Ikenga-Software-Solutions-LTD/libertasalpha-academy-certification-contracts) |
+| **Decentralized Stablecoin**     | A minimal, exogenous, crypto-backed stablecoin protocol designed with a focus on mathematical solvency.                                          | ✅ Completed | [Demo](https://x.com/BinnaDev/status/1995555619747614984)                                              |     |
 
 ---
 
-## ✍️ TECHNICAL WRITING & BINNADEV LABS:
+## ✍️ TECHNICAL WRITING & BINNADEV LABS
 
 I write about smart contract security, edge cases, and onchain architecture.
 
