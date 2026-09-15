@@ -57,7 +57,7 @@ I design smart contracts that handle **real value** responsibly. I believe code 
 I write about smart contract security, edge cases, and onchain architecture.
 
 - **[Dev.to Articles](https://dev.to/binnadev)** - Deep dives into ERC20 edge cases, protocol design, and Solidity.
-- **BinnaDevLab** - _Coming Soon._ Interrogating onchain architecture to teach developers how to think like security researchers.
+- **[BinnaDevLab](https://www.binnadev.com)** - BinnaDevLab brings thoughtful engineering and local talent to the global Web3 ecosystem. We build from first principles, guided by security, reliability, and excellence.
 
 ---
 
